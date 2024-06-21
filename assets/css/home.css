@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    transition: all 0.3s;
+}
+
+.cabeçalho{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items:center;
+    background-color:blanchedalmond;
+    height: 30vh;
+    gap: 10px;
+    background-color: #9825da;
+}
+.imglogo{
+    width: 250px;
+}
+.palavras{
+    background-color: #8037df;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+}
+.palavras:hover {
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(174,81,230,1) 100%);
+}
+.tt{
+    text-align: center;
+    background-color: #c431f1;
+    padding: 10px;
+    
+}
+.imgti{
+    width: 200px;
+}
+.imgs{
+    justify-content: center;
+    display: flex;
+    padding-top: 100px;
+}
+.txt{
+    padding-right: 200px;
+}
+.imgds{
+    width: 350px;
+    padding: 20px;
+}
+.texto{
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 100px;
+}
+.corpo{
+    background-color: #da9fec;
+    
+}
+.frase1{
+    text-align: center;
+    padding: 10px;
+    background-color: #c431f1;
+}
+.imm{
+    width: 300px;
+}
+.segundaparte{
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.paragrafo{
+    padding-top: 20px;
+    font-size: 30px;
+}
+.frase3{
+    text-align: center;
+    padding: 10px;
+    background-color: #c431f1;
+    font-size: 25px;
+}
+.ihh{
+    width: 250px;
+    padding-left: 30px;
+    
+}
+.imk{
+    width: 250px;
+}
+.ikk{
+    width: 250px;
+}
+.terceiraparte{
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    justify-content: space-between;
+}
+.ijj{
+    width: 250px;
+    padding-right: 30px;
+}
+.frase9{
+    text-align: center;
+    padding: 10px;
+    background-color: #c431f1;
+}
+.borda{
+    padding: 40px;
+    border: 2px;
+    margin-top: 45px;
+    border-radius: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: #c431f1;
+}
